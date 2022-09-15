@@ -1,1 +1,1 @@
-# eSportsExplorer
+# eSports Explorer
